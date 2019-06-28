@@ -33,6 +33,12 @@ Userinfo;
 Vinfo;
 Warn;
 
+Bot token
+-------------------------
+
+You can change the bot token in the folder config.
+Inside the folder you see a file called botconfig.json. Inside that file you can put your token.
+
 Bot created by
 -------------------------
 
