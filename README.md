@@ -1,3 +1,5 @@
+# OUTDATED SOURCE CODE
+
 Welcome to the hackersbot
 -------------------------
 
